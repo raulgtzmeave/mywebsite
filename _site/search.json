@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Raúl Gutiérrez Meave",
@@ -25,28 +32,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Siciliano, M., E-Zhera, M., Gutiérrez-Meave, R., Deslatte, A., Krause, R., (2024) “Local Governance and Green Ties: Assessing the Relationship Between Functional and Institutional Collective Action.” (Under review)\nGutiérrez-Meave, R. (2024). “Advocacy Coalitions, Soft Power, and Policy Change in Mexican Electricity Policy: A Discourse Network Analysis.” Policy and Politics.\nGutiérrez-Meave, R., Rosellón, J., Sarmiento, L. (2024). “Policy Reversals in Transitional Markets: The Effect of Changing Marginal-cost to Physical-order Dispatch in the Mexican Power Sector.” Economics of Energy & Environmental Policy.\nMassa, R., Fondevila, G., Gutiérrez-Meave, R., Bonilla, G. (2023). “Clandestine Dumpsites and Crime in Mexico City: Revisiting the Broken Windows Theory.” Crime & Delinquency.\nBonilla, G. and Gutiérrez-Meave, R. (2022). “Zoning Out Robbery? An Empirical Study in Mexico City.” Housing Policy Debate."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "publications.html#peer-reviewed",
-    "href": "publications.html#peer-reviewed",
-    "title": "Publications",
-    "section": "",
-    "text": "Siciliano, M., E-Zhera, M., Gutiérrez-Meave, R., Deslatte, A., Krause, R., (2024) “Local Governance and Green Ties: Assessing the Relationship Between Functional and Institutional Collective Action.” (Under review)\nGutiérrez-Meave, R. (2024). “Advocacy Coalitions, Soft Power, and Policy Change in Mexican Electricity Policy: A Discourse Network Analysis.” Policy and Politics.\nGutiérrez-Meave, R., Rosellón, J., Sarmiento, L. (2024). “Policy Reversals in Transitional Markets: The Effect of Changing Marginal-cost to Physical-order Dispatch in the Mexican Power Sector.” Economics of Energy & Environmental Policy.\nMassa, R., Fondevila, G., Gutiérrez-Meave, R., Bonilla, G. (2023). “Clandestine Dumpsites and Crime in Mexico City: Revisiting the Broken Windows Theory.” Crime & Delinquency.\nBonilla, G. and Gutiérrez-Meave, R. (2022). “Zoning Out Robbery? An Empirical Study in Mexico City.” Housing Policy Debate."
+    "text": "Gutiérrez-Meave, R. (2024). “Advocacy Coalitions, Soft Power, and Policy Change in Mexican Electricity Policy: A Discourse Network Analysis.” Policy and Politics.\nGutiérrez-Meave, R., Rosellón, J., Sarmiento, L. (2024). “Policy Reversals in Transitional Markets: The Effect of Changing Marginal-cost to Physical-order Dispatch in the Mexican Power Sector.” Economics of Energy & Environmental Policy.\nMassa, R., Fondevila, G., Gutiérrez-Meave, R., Bonilla, G. (2023). “Clandestine Dumpsites and Crime in Mexico City: Revisiting the Broken Windows Theory.” Crime & Delinquency.\nBonilla, G. and Gutiérrez-Meave, R. (2022). “Zoning Out Robbery? An Empirical Study in Mexico City.” Housing Policy Debate."
   },
   {
     "objectID": "publications.html#peer-reviewed-publications",
     "href": "publications.html#peer-reviewed-publications",
     "title": "Publications",
     "section": "",
-    "text": "Siciliano, M., E-Zhera, M., Gutiérrez-Meave, R., Deslatte, A., Krause, R., (2024) “Local Governance and Green Ties: Assessing the Relationship Between Functional and Institutional Collective Action.” (Under review)\nGutiérrez-Meave, R. (2024). “Advocacy Coalitions, Soft Power, and Policy Change in Mexican Electricity Policy: A Discourse Network Analysis.” Policy and Politics.\nGutiérrez-Meave, R., Rosellón, J., Sarmiento, L. (2024). “Policy Reversals in Transitional Markets: The Effect of Changing Marginal-cost to Physical-order Dispatch in the Mexican Power Sector.” Economics of Energy & Environmental Policy.\nMassa, R., Fondevila, G., Gutiérrez-Meave, R., Bonilla, G. (2023). “Clandestine Dumpsites and Crime in Mexico City: Revisiting the Broken Windows Theory.” Crime & Delinquency.\nBonilla, G. and Gutiérrez-Meave, R. (2022). “Zoning Out Robbery? An Empirical Study in Mexico City.” Housing Policy Debate."
+    "text": "Gutiérrez-Meave, R. (2024). “Advocacy Coalitions, Soft Power, and Policy Change in Mexican Electricity Policy: A Discourse Network Analysis.” Policy and Politics.\nGutiérrez-Meave, R., Rosellón, J., Sarmiento, L. (2024). “Policy Reversals in Transitional Markets: The Effect of Changing Marginal-cost to Physical-order Dispatch in the Mexican Power Sector.” Economics of Energy & Environmental Policy.\nMassa, R., Fondevila, G., Gutiérrez-Meave, R., Bonilla, G. (2023). “Clandestine Dumpsites and Crime in Mexico City: Revisiting the Broken Windows Theory.” Crime & Delinquency.\nBonilla, G. and Gutiérrez-Meave, R. (2022). “Zoning Out Robbery? An Empirical Study in Mexico City.” Housing Policy Debate."
   },
   {
     "objectID": "publications.html#book-chapterssections",
@@ -68,5 +61,12 @@
     "title": "Publications",
     "section": "Book Reviews",
     "text": "Book Reviews\nGutiérrez-Meave, R. (2020). “Luchando por un espacio en la Ciudad de México: Comerciantes ambulantes y el espacio público urbano. Fighting for Space in Mexico City. Street Traders and Urban Public Space”, México, El Colegio de México, 2018, 336 pp. Gestión y Política Pública."
+  },
+  {
+    "objectID": "publications.html#under-review",
+    "href": "publications.html#under-review",
+    "title": "Publications",
+    "section": "Under review",
+    "text": "Under review\nSiciliano, M., E-Zhera, M., Gutiérrez-Meave, R., Deslatte, A., Krause, R., (2024) “Local Governance and Green Ties: Assessing the Relationship Between Functional and Institutional Collective Action.” (Under review)"
   }
 ]
