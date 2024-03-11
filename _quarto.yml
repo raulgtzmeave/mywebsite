@@ -14,6 +14,8 @@ website:
         href: index.qmd 
       - text: "Publications"
         href: publications.qmd
+      - text: "My research"
+        href: research.qmd
     right: 
       - icon: envelope
         href: "mailto:rgutie34@uic.edu"
@@ -24,9 +26,14 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+     light: lux
+     dark: cyborg
     toc: true
+    toc-expand: 3
+    fontsize: 1em
+    css: styles.css
+
 
 editor: visual
 
