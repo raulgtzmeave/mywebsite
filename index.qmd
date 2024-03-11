@@ -12,6 +12,8 @@ title: ""
 
 <div>
 
+<div>
+
 ::: {.column}
 My name is Raul Gutierrez Meave. I am a Ph.D. student of Public Administration at the Department of Public Policy, Management and Analytics at the University of Illinois Chicago (UIC). With a previous Ph.D. in Public Policy at the Center for Research and Teaching in Economics (CIDE), my research focuses broadly on urban governance, networks, and local policymaking.
 
@@ -20,9 +22,11 @@ I am also an affiliated student of the Networks and Governance Lab at UIC. If yo
 
 </div>
 
+</div>
+
 ![](Images/NGL_Logo.jpg)
 
-Education
+## Education
 
 #### **Ph.D., Public Administration - 2026 (expected)**
 
