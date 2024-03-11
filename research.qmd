@@ -2,9 +2,7 @@
 title: "My research"
 ---
 
-## My research
-
-My research interests span various aspects of public administration, public policy, specifically urban governance, and networks. I adopt an interdisciplinary approach that incorporates quantitative and qualitative methods, including social network analysis, geographic information systems, spatial statistics, text analysis, and optimization modeling.
+My research interests span various aspects of public administration and public policy, specifically urban governance, and networks. I adopt an interdisciplinary approach that incorporates quantitative and qualitative methods, including social network analysis, geographic information systems, spatial statistics, text analysis, and optimization modeling.
 
 A core area of my work focuses on understanding the dynamics of intergovernmental collaboration, particularly the diffusion of interlocal contractual agreements. I investigate how factors such as innovation, competitive pressures, and networked relationships influence the adoption and spread of collaborative arrangements among local governments. I am also interested in examining the interplay between network structures and contract design in mitigating risks associated with interlocal collaboration.
 
