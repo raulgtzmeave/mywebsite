@@ -4,13 +4,13 @@ title: "Publications"
 
 ## Peer reviewed publications
 
-**Gutiérrez-Meave, R**. (2024). “Advocacy Coalitions, Soft Power, and Policy Change in Mexican Electricity Policy: A Discourse Network Analysis.” *Policy and Politics.*
+**\[Gutiérrez-Meave, R**. (2024). “Advocacy Coalitions, Soft Power, and Policy Change in Mexican Electricity Policy: A Discourse Network Analysis.” *Policy and Politics.\]*(<https://bristoluniversitypressdigital.com/view/journals/pp/aop/article-10.1332-03055736Y2023D000000005/article-10.1332-03055736Y2023D000000005.xml>[)](https://journals.sagepub.com/doi/10.1177/0160323X231208958?icid=int.sj-abstract.citing-articles.84))
 
-**Gutiérrez-Meave, R.,** Rosellón, J., Sarmiento, L. (2024). “Policy Reversals in Transitional Markets: The Effect of Changing Marginal-cost to Physical-order Dispatch in the Mexican Power Sector.” *Economics of Energy & Environmental Policy*.
+**\[Gutiérrez-Meave, R.,** Rosellón, J., Sarmiento, L. (2024). “Policy Reversals in Transitional Markets: The Effect of Changing Marginal-cost to Physical-order Dispatch in the Mexican Power Sector.” *Economics of Energy & Environmental Policy*.\]
 
-Massa, R., Fondevila, G., **Gutiérrez-Meave, R.,** Bonilla, G. (2023). “Clandestine Dumpsites and Crime in Mexico City: Revisiting the Broken Windows Theory.” *Crime & Delinquency*.
+\[Massa, R., Fondevila, G., **Gutiérrez-Meave, R.,** Bonilla, G. (2023). “Clandestine Dumpsites and Crime in Mexico City: Revisiting the Broken Windows Theory.” *Crime & Delinquency*.\]
 
-Bonilla, G. and **Gutiérrez-Meave, R.** (2022). “Zoning Out Robbery? An Empirical Study in Mexico City.” *Housing Policy Debate*.
+\[Bonilla, G. and **Gutiérrez-Meave, R.** (2022). “Zoning Out Robbery? An Empirical Study in Mexico City.” *Housing Policy Debate*.\]
 
 ## Under review
 
@@ -29,4 +29,3 @@ Siciliano, M., E-Zhera, M., **Gutiérrez-Meave, R.,** Deslatte, A., Krause, R., 
 “Beyond Formal Contracting or Relational Governance: The Interplay Between Network Structure and Contract Design for Public Service Delivery.”
 
 “Going Green: The economic effects of an accelerated electrification and decarbonization process in Latin America.”
-
