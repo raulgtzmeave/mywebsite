@@ -5,12 +5,20 @@ title: ""
 ## About me
 
 ::: columns
-![](Images/Profile_photo.jpeg)
+::: {.column}
+![](Images/Profile_photo.jpeg){fig-align="right"}
+:::
 :::
 
+<div>
+
+::: {.column}
 My name is Raul Gutierrez Meave. I am a Ph.D. student of Public Administration at the Department of Public Policy, Management and Analytics at the University of Illinois Chicago (UIC). With a previous Ph.D. in Public Policy at the Center for Research and Teaching in Economics (CIDE), my research focuses broadly on urban governance, networks, and local policymaking.
 
 I am also an affiliated student of the Networks and Governance Lab at UIC. If you're interested in learning more about the exciting projects we're working on, I encourage you to explore our lab's website.
+:::
+
+</div>
 
 ![](Images/NGL_Logo.jpg)
 
