@@ -35,10 +35,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -89,6 +91,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./publications.html" rel="" target="" aria-current="page">
  <span class="menu-text">Publications</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.qmd" rel="" target="">
+ <span class="menu-text">My research</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -108,6 +114,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -118,15 +125,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="3">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
   <li><a href="#peer-reviewed-publications" id="toc-peer-reviewed-publications" class="nav-link active" data-scroll-target="#peer-reviewed-publications">Peer reviewed publications</a></li>
   <li><a href="#under-review" id="toc-under-review" class="nav-link" data-scroll-target="#under-review">Under review</a></li>
-  <li><a href="#book-chapterssections" id="toc-book-chapterssections" class="nav-link" data-scroll-target="#book-chapterssections">Book chapters/sections</a></li>
   <li><a href="#refereed-conference-proceedings" id="toc-refereed-conference-proceedings" class="nav-link" data-scroll-target="#refereed-conference-proceedings">Refereed Conference Proceedings</a></li>
   <li><a href="#book-reviews" id="toc-book-reviews" class="nav-link" data-scroll-target="#book-reviews">Book Reviews</a></li>
+  <li><a href="#manuscripts-in-preparation" id="toc-manuscripts-in-preparation" class="nav-link" data-scroll-target="#manuscripts-in-preparation">Manuscripts in Preparation</a></li>
   </ul>
 </nav>
     </div>
@@ -161,10 +168,6 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="under-review">Under review</h2>
 <p>Siciliano, M., E-Zhera, M., <strong>Gutiérrez-Meave, R.,</strong> Deslatte, A., Krause, R., (2024) “Local Governance and Green Ties: Assessing the Relationship Between Functional and Institutional Collective Action.” <em>(Under review)</em></p>
 </section>
-<section id="book-chapterssections" class="level2">
-<h2 class="anchored" data-anchor-id="book-chapterssections">Book chapters/sections</h2>
-<p><strong>Gutiérrez-Meave, R.</strong>, Hancevic., P., Núñez, H., Rosellón, J. (2024). “Los efectos económicos de un proceso acelerado de electrificación y descarbonización en México. <em>The economic effects of an accelerated electrification and decarbonization process in Mexico</em>.” <em>CIDE, México.</em></p>
-</section>
 <section id="refereed-conference-proceedings" class="level2">
 <h2 class="anchored" data-anchor-id="refereed-conference-proceedings">Refereed Conference Proceedings</h2>
 <p><strong>Gutiérrez-Meave, R.</strong> (2022). “Framing and Decisions: The Punctuations of the Mexican Power Generation Policy Subsystem.” <em>European Administrative Area: Integration and Resilience Dynamics.</em> <em>EU-PAIR 2022, pages 275–286.</em></p>
@@ -172,6 +175,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="book-reviews" class="level2">
 <h2 class="anchored" data-anchor-id="book-reviews">Book Reviews</h2>
 <p><strong>Gutiérrez-Meave, R.</strong> (2020). “<em>Luchando por un espacio en la Ciudad de México: Comerciantes ambulantes y el espacio público urbano.</em> <em>Fighting for Space in Mexico City. Street Traders and Urban Public Space”,</em> México, El Colegio de México, 2018, 336 pp.&nbsp;<em>Gestión y Política Pública.</em></p>
+</section>
+<section id="manuscripts-in-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="manuscripts-in-preparation">Manuscripts in Preparation</h2>
+<p>“Beyond Formal Contracting or Relational Governance: The Interplay Between Network Structure and Contract Design for Public Service Delivery.”</p>
+<p>“Going Green: The economic effects of an accelerated electrification and decarbonization process in Latin America.”</p>
 
 
 </section>
@@ -197,6 +205,121 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {

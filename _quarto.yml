@@ -5,6 +5,7 @@ project:
     - index.qmd
     - publications.qmd
     - about.qmd
+    - research.qmd
 
 website:
   title: "Raúl Gutiérrez Meave"

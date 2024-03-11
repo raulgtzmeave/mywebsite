@@ -1,0 +1,17 @@
+---
+title: "My research"
+---
+
+## My research
+
+My research interests span various aspects of public administration, public policy, specifically urban governance, and networks. I adopt an interdisciplinary approach that incorporates quantitative and qualitative methods, including social network analysis, geographic information systems, spatial statistics, text analysis, and optimization modeling.
+
+A core area of my work focuses on understanding the dynamics of intergovernmental collaboration, particularly the diffusion of interlocal contractual agreements. I investigate how factors such as innovation, competitive pressures, and networked relationships influence the adoption and spread of collaborative arrangements among local governments. I am also interested in examining the interplay between network structures and contract design in mitigating risks associated with interlocal collaboration.
+
+Another key research thrust involves analyzing the role of discourse networks and advocacy coalitions in shaping policy decisions. My work in this area has explored the power generation policy subsystem in Mexico, leveraging discourse network analysis to uncover how different coalitions frame policy issues and influence policy outcomes.
+
+Bridging my interests in urban governance and sustainability, I study the economic and policy implications of accelerated electrification and decarbonization processes in urban areas. This research aims to inform strategies for promoting sustainable urban development and addressing environmental justice concerns.
+
+Additionally, I have conducted research on the intersections of urban policy, crime, and environmental justice, examining topics such as the relationship between clandestine dumpsites and crime patterns, as well as the potential impacts of zoning policies on robbery rates.
+
+Overall, my research agenda centers on advancing our understanding of collaborative governance, policy processes, and sustainable urban development, with a particular focus on leveraging quantitative and network-based approaches to inform policy and decision-making.
