@@ -5,14 +5,14 @@ title: ""
 ## About me
 
 ::: columns
-::: {.column}
+::: column
 ![](Images/Profile_photo.jpeg){fig-align="right"}
 :::
 :::
 
 <div>
 
-::: {.column}
+::: column
 My name is Raul Gutierrez Meave. I am a Ph.D. student of Public Administration at the Department of Public Policy, Management and Analytics at the University of Illinois Chicago (UIC). With a previous Ph.D. in Public Policy at the Center for Research and Teaching in Economics (CIDE), my research focuses broadly on urban governance, networks, and local policymaking.
 
 I am also an affiliated student of the Networks and Governance Lab at UIC. If you're interested in learning more about the exciting projects we're working on, I encourage you to explore our lab's website.
@@ -24,7 +24,7 @@ I am also an affiliated student of the Networks and Governance Lab at UIC. If yo
 
 ## Education
 
-#### **Ph.D., Public Administration - 2026 (expected)**
+##### **Ph.D., Public Administration - 2026 (expected)**
 
 University of Illinois Chicago (UIC)
 
@@ -34,7 +34,7 @@ Concentration: Urban Governance and Networks
 
 Dissertation: *“Innovation, Competitive pressures, and Networked Gains: Understanding the Diffusion Dynamics of Intergovernmental Contractual Agreements.”*
 
-#### **Ph.D., Public Policy - 2022**
+##### **Ph.D., Public Policy - 2022**
 
 Center for Research and Teaching in Economics (CIDE)
 
@@ -44,10 +44,10 @@ Dissertation: “*Discourse Networks, Advocacy Coalitions, and Policy Decisions:
 
 Committee: Edgar Ramírez de la Cruz, CIDE, Juan Rosellón, CIDE, Ramiro Berardo, Ohio State University. 
 
-#### **M.A., Politics and Public Management - 2016**
+##### **M.A., Politics and Public Management - 2016**
 
 Iberoamericana University (UIA)
 
-#### **B.A., Business Administration - 2010**
+##### **B.A., Business Administration - 2010**
 
 Iberoamericana University (UIA)
