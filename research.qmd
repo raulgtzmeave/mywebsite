@@ -2,14 +2,16 @@
 title: "My research"
 ---
 
-My research interests span various aspects of public administration and public policy, specifically urban governance, and networks. I adopt an interdisciplinary approach that incorporates quantitative and qualitative methods, including social network analysis, geographic information systems, spatial statistics, text analysis, and optimization modeling.
+My research agenda centers on advancing our understanding of urban governance, policy processes, and sustainable urban development through an interdisciplinary lens bridging public administration, public policy, institutional economics, regulation theory, and network science.
 
-A core area of my work focuses on understanding the dynamics of intergovernmental collaboration, particularly the diffusion of interlocal contractual agreements. I investigate how factors such as innovation, competitive pressures, and networked relationships influence the adoption and spread of collaborative arrangements among local governments. I am also interested in examining the interplay between network structures and contract design in mitigating risks associated with interlocal collaboration.
+Specifically, I investigate key areas related to:
 
-Another key research thrust involves analyzing the role of discourse networks and advocacy coalitions in shaping policy decisions. My work in this area has explored the power generation policy subsystem in Mexico, leveraging discourse network analysis to uncover how different coalitions frame policy issues and influence policy outcomes.
+1.  The dynamics underlying intergovernmental collaboration and diffusion of interlocal agreements, analyzing how spatial factors, competition, and networked relationships influence collaborative arrangements among municipalities.
 
-Bridging my interests in urban governance and sustainability, I study the economic and policy implications of accelerated electrification and decarbonization processes in urban areas. This research aims to inform strategies for promoting sustainable urban development and addressing environmental justice concerns.
+2.  Urban policy issues across various domains such as land use, crime, transportation, economic development, and public services, employing diverse analytical approaches.
 
-Additionally, I have conducted research on the intersections of urban policy, crime, and environmental justice, examining topics such as the relationship between clandestine dumpsites and crime patterns, as well as the potential impacts of zoning policies on robbery rates.
+3.  The role of advocacy coalitions in shaping policy decisions through discourse networks and other theoretical and methodological approaches.
 
-Overall, my research agenda centers on advancing our understanding of collaborative governance, policy processes, and sustainable urban development, with a particular focus on leveraging quantitative and network-based approaches to inform policy and decision-making.
+4.  Economic and policy implications of urban electrification and decarbonization processes, informing strategies for sustainable development and environmental justice.
+
+My research blends theoretical concepts with qualitative and quantitative techniques (advanced statistical methods, social network analysis (SNA), geographic information systems (GIS), spatial statistics, quantitative text analysis, and optimization modeling), extending from national policies to local governance, collaborative networks, competitive dynamics, and cross-jurisdictional diffusion processes - all through a holistic governance perspective analyzing technological, economic, political and institutional dimensions.
