@@ -20,7 +20,7 @@ I am also an affiliated student of the Networks and Governance Lab at UIC. If yo
 
 </div>
 
-![](Images/NGL_Logo.jpg)
+![](Images/NGL_Logo.jpg){width="75%"}
 
 ## Education
 
@@ -32,7 +32,7 @@ Department of Public Policy, Management, and Analytics
 
 Concentration: Urban Governance and Networks
 
-Dissertation: *“Innovation, Competitive pressures, and Networked Gains: Understanding the Diffusion Dynamics of Intergovernmental Contractual Agreements.”*
+Dissertation: *“Innovation, Competitive pressures, and Networked Gains: Understanding the Diffusion Dynamics of Interlocal C Agreements.”*
 
 ##### **Ph.D., Public Policy - 2022**
 
