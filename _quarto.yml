@@ -13,10 +13,10 @@ website:
     left:
       - text: "Home"
         href: index.qmd 
-      - text: "Publications"
-        href: publications.qmd
       - text: "My research"
         href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
     right: 
       - icon: envelope
         href: "mailto:rgutie34@uic.edu"
