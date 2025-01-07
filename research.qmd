@@ -2,16 +2,6 @@
 title: "My research"
 ---
 
-My research agenda centers on advancing our understanding of urban governance, policy processes, and sustainable urban development through an interdisciplinary lens bridging public administration, public policy, institutional economics, regulation theory, and network science.
+My research examines the factors that drive collaboration among local governments to address urban challenges and improve public service delivery. I focus on how network structures, spatial dynamics, and governance processes interact to shape policy outcomes, emphasizing the relational and institutional mechanisms that enable effective interlocal collaboration. Beyond these theoretical contributions, my work also addresses critical policy challenges in sustainability, energy transitions, environmental justice, and urban development.
 
-Specifically, I investigate key areas related to:
-
-1.  The dynamics underlying intergovernmental collaboration and diffusion of interlocal agreements, analyzing how spatial factors, competition, and networked relationships influence collaborative arrangements among municipalities.
-
-2.  Urban policy issues across various domains such as land use, crime, transportation, economic development, and public services, employing diverse analytical approaches.
-
-3.  The role of advocacy coalitions in shaping policy decisions through discourse networks and other theoretical and methodological approaches.
-
-4.  Economic and policy implications of urban electrification and decarbonization processes, informing strategies for sustainable development and environmental justice.
-
-My research blends theoretical concepts with qualitative and quantitative techniques (advanced statistical methods, social network analysis (SNA), geographic information systems (GIS), spatial statistics, quantitative text analysis, and optimization modeling), extending from national policies to local governance, collaborative networks, competitive dynamics, and cross-jurisdictional diffusion processes - all through a holistic governance perspective analyzing technological, economic, political and institutional dimensions.
+My research combines econometric models, spatial statistical analysis, network modeling, quantitative text analysis, and other quantitative approaches to examine how local governments collaborate and how these collaborative efforts spread across regions. These methods help uncover patterns and mechanisms driving interlocal collaboration, offering insights into how governance systems can better respond to shared challenges
