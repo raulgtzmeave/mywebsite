@@ -18,7 +18,7 @@ I am also an affiliated student of the Networks and Governance Lab at UIC. If yo
 :::
 ::::::
 
-::: {style="text-align: right; margin-top: 20px; margin-bottom: 20px;"}
+::: {style="text-align: center; margin-top: 20px; margin-bottom: 20px;"}
 <img src="Images/NGL_Logo.jpg" alt="NGL Logo" style="width: 35%;"/>
 :::
 
