@@ -173,28 +173,42 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="education">Education</h2>
 <section id="ph.d.-public-administration---2026-expected" class="level3">
 <h3 class="anchored" data-anchor-id="ph.d.-public-administration---2026-expected"><strong>Ph.D., Public Administration - 2026 (expected)</strong></h3>
-<p>University of Illinois Chicago (UIC)</p>
-<p>Department of Public Policy, Management, and Analytics</p>
-<p>Concentration: Urban Governance and Networks</p>
+<section id="university-of-illinois-chicago-uic" class="level4">
+<h4 class="anchored" data-anchor-id="university-of-illinois-chicago-uic">University of Illinois Chicago (UIC)</h4>
+<section id="department-of-public-policy-management-and-analytics" class="level5">
+<h5 class="anchored" data-anchor-id="department-of-public-policy-management-and-analytics">Department of Public Policy, Management, and Analytics</h5>
+</section>
+<section id="concentration-urban-governance-and-networks" class="level5">
+<h5 class="anchored" data-anchor-id="concentration-urban-governance-and-networks">Concentration: Urban Governance and Networks</h5>
 <p>Dissertation: “<em>Exploring the Dynamics of Interlocal Agreements Diffusion: Measurement, Geographic Proximity, and Network Influences</em>.”</p>
 <p>Committee: Jered B. Carr (chair), University of Illinois Chicago; Michael Siciliano, University of Illinois Chicago; Kelly LeRoux, University of Illinois Chicago; Meghan Rubado, Cleveland State University; Hongtao Yi, Florida State University.</p>
 </section>
+</section>
+</section>
 <section id="ph.d.-public-policy---2022" class="level3">
 <h3 class="anchored" data-anchor-id="ph.d.-public-policy---2022"><strong>Ph.D., Public Policy - 2022</strong></h3>
-<p>Center for Research and Teaching in Economics (CIDE)</p>
-<p>Public Administration Division</p>
+<section id="center-for-research-and-teaching-in-economics-cide" class="level4">
+<h4 class="anchored" data-anchor-id="center-for-research-and-teaching-in-economics-cide">Center for Research and Teaching in Economics (CIDE)</h4>
+<section id="public-administration-division" class="level5">
+<h5 class="anchored" data-anchor-id="public-administration-division">Public Administration Division</h5>
 <p>Dissertation: “<em>Discourse Networks, Advocacy Coalitions, and Policy Decisions: The Power Generation Policy in Mexico, 1994-2018</em>.”</p>
 <p>Committee: Edgar Ramírez de la Cruz (chair), CIDE, Juan Rosellón (chair), CIDE, Ramiro Berardo, Ohio State University.</p>
 </section>
+</section>
+</section>
 <section id="m.a.-politics-and-public-management---2016" class="level3">
 <h3 class="anchored" data-anchor-id="m.a.-politics-and-public-management---2016"><strong>M.A., Politics and Public Management - 2016</strong></h3>
-<p>Iberoamericana University - León (UIA)</p>
+<section id="iberoamericana-university---león-uia" class="level4">
+<h4 class="anchored" data-anchor-id="iberoamericana-university---león-uia">Iberoamericana University - León (UIA)</h4>
+</section>
 </section>
 <section id="b.a.-business-administration---2010" class="level3">
 <h3 class="anchored" data-anchor-id="b.a.-business-administration---2010"><strong>B.A., Business Administration - 2010</strong></h3>
-<p>Iberoamericana University - León (UIA)</p>
+<section id="iberoamericana-university---león-uia-1" class="level4">
+<h4 class="anchored" data-anchor-id="iberoamericana-university---león-uia-1">Iberoamericana University - León (UIA)</h4>
 
 
+</section>
 </section>
 </section>
 
@@ -435,7 +449,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/raulgtzmeave\.github\.io\/mywebsite\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -26,11 +26,11 @@ I am also an affiliated student of the Networks and Governance Lab at UIC. If yo
 
 ### **Ph.D., Public Administration - 2026 (expected)**
 
-University of Illinois Chicago (UIC)
+#### University of Illinois Chicago (UIC)
 
-Department of Public Policy, Management, and Analytics
+##### Department of Public Policy, Management, and Analytics
 
-Concentration: Urban Governance and Networks
+##### Concentration: Urban Governance and Networks
 
 Dissertation: “*Exploring the Dynamics of Interlocal Agreements Diffusion: Measurement, Geographic Proximity, and Network Influences*.”
 
@@ -38,9 +38,9 @@ Committee: Jered B. Carr (chair), University of Illinois Chicago; Michael Sicili
 
 ### **Ph.D., Public Policy - 2022**
 
-Center for Research and Teaching in Economics (CIDE)
+#### Center for Research and Teaching in Economics (CIDE)
 
-Public Administration Division
+##### Public Administration Division
 
 Dissertation: “*Discourse Networks, Advocacy Coalitions, and Policy Decisions: The Power Generation Policy in Mexico, 1994-2018*.”
 
@@ -48,8 +48,8 @@ Committee: Edgar Ramírez de la Cruz (chair), CIDE, Juan Rosellón (chair), CIDE
 
 ### **M.A., Politics and Public Management - 2016**
 
-Iberoamericana University - León (UIA)
+#### Iberoamericana University - León (UIA)
 
 ### **B.A., Business Administration - 2010**
 
-Iberoamericana University - León (UIA)
+#### Iberoamericana University - León (UIA)
