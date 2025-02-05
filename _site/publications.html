@@ -181,11 +181,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="book-chapters" class="level4">
 <h4 class="anchored" data-anchor-id="book-chapters">Book Chapters</h4>
 <ol start="2" type="1">
-<li>Rosellón, J., Núñez, H., <em>Gutiérrez-Meave, R.</em> (2025). “Entendiendo el rol de la infraestructura de transmisión eléctrica para la transición energética: modelos, principales desafíos y casos.” In Energía 2050 Vol. II. ITAM, México (<em>Forthcoming</em>).</li>
+<li>Rosellón, J., Núñez, H., <em>Gutiérrez-Meave, R.</em> (2025). “Entendiendo el rol de la infraestructura de transmisión eléctrica para la transición energética: modelos, principales desafíos y casos.” [<em>Understanding the Role of Transmission Infrastructure in the Energy Transition: Models, Main Challenges, and Case Studies</em>]. In Energía 2050 Vol. II. David Enriques and Yolanda Villegas (eds.). Editorial Tirant Lo Blanch (<em>Forthcoming</em>).</li>
 </ol>
 <!-- -->
 <ol type="1">
-<li><a href="https://repositorio-digital.cide.edu/handle/11651/5906"><em>Gutiérrez-Meave, R.</em>, Hancevic, P., Núñez, H., Rosellón, J. (2024). “Los efectos económicos de un proceso acelerado de electrificación y descarbonización en México.” In La economía mexicana: un balance desde la academia. México: Centro de Investigación y Docencia Económicas (CIDE), División de Economía.</a></li>
+<li><a href="#0"><em>Gutiérrez-Meave, R.</em>, Hancevic, P., Núñez, H., Rosellón, J. (2024). “Los efectos económicos de un proceso acelerado de electrificación y descarbonización en México.”</a>[<em>The Economic Effects of an Accelerated Electrification and Decarbonization Process in Mexico</em>]. <a href="https://repositorio-digital.cide.edu/handle/11651/5906">In La economía mexicana: un balance desde la academia. México: Centro de Investigación y Docencia Económicas (CIDE), División de Economía.</a></li>
 </ol>
 </section>
 <section id="refereed-conference-proceedings" class="level4">
@@ -482,7 +482,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/raulgtzmeave\.github\.io\/mywebsite\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
