@@ -1,7 +1,0 @@
----
-title: "About me"
----
-
-My name is Raul Gutierrez Meave. I am a Ph.D. student of Public Administration at the University of Illinois Chicago. With a previous Ph.D. in Public Policy at the Center for Research and Teaching in Economics (CIDE), my research focuses broadly on urban governance, networks, and local policymaking. More specifically, I am interested in studying how local governments adopt policy innovations. In particular, I aim to examine how intergovernmental agreements for service delivery spread to other municipalities through interlocal collaborations and networks over time and space. I am also interested in studying the impacts of urban infrastructure on various policy domains and dynamics within cities. My goal goal is to uncover insights into building more resilient, sustainable, and livable communities.
-
- 
