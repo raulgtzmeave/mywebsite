@@ -12,44 +12,6 @@ title: ""
 ::::
 
 ::: {.column width="60%"}
-My name is Raul Gutierrez Meave. I am a Ph.D. Candidate in Public Administration at the Department of Public Policy, Management and Analytics at the University of Illinois Chicago (UIC). With a previous Ph.D. in Public Policy from the Center for Research and Teaching in Economics (CIDE), my research focuses broadly on urban governance, policy, and networks.
-
-I am also an affiliated student of the Networks and Governance Lab at UIC. If you're interested in learning more about the exciting research we're working on, I invite you to visit our lab's website to learn more about our current projects and initiatives.
+My name is Raul Gutierrez Meave. I am a Ph.D. Candidate in Public Administration at the Department of Public Policy, Management and Analytics at the University of Illinois Chicago (UIC). With a previous Ph.D. in Public Policy from the Center for Research and Teaching in Economics (CIDE), my research focuses broadly on local governance, collaboration networks, and policy diffusion.
 :::
 ::::::
-
-::: {style="text-align: center; margin-top: 20px; margin-bottom: 20px;"}
-<img src="Images/NGL_Logo.jpg" alt="NGL Logo" style="width: 35%;"/>
-:::
-
-## Education
-
-### **Ph.D., Public Administration - 2026 (expected)**
-
-#### University of Illinois Chicago (UIC)
-
-##### Department of Public Policy, Management, and Analytics
-
-Concentration: Urban Governance and Networks
-
-Dissertation: “*Exploring the Dynamics of Interlocal Agreements Diffusion: Measurement, Geographic Proximity, and Network Influences*.”
-
-Committee: Jered B. Carr (chair), University of Illinois Chicago; Michael Siciliano, University of Illinois Chicago; Kelly LeRoux, University of Illinois Chicago; Meghan Rubado, Cleveland State University; Hongtao Yi, Florida State University.
-
-### **Ph.D., Public Policy - 2022**
-
-#### Center for Research and Teaching in Economics (CIDE)
-
-##### Public Administration Division
-
-Dissertation: “*Discourse Networks, Advocacy Coalitions, and Policy Decisions: The Power Generation Policy in Mexico, 1994-2018*.”
-
-Committee: Edgar Ramírez de la Cruz (chair), CIDE, Juan Rosellón (chair), CIDE, Ramiro Berardo, Ohio State University.
-
-### **M.A., Politics and Public Management - 2016**
-
-#### Iberoamericana University - León (UIA)
-
-### **B.A., Business Administration - 2010**
-
-#### Iberoamericana University - León (UIA)

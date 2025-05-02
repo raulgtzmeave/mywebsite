@@ -3,9 +3,10 @@ project:
   output-dir: _site
   render:
     - index.qmd
-    - publications.qmd
     - about.qmd
+    - education.qmd
     - research.qmd
+    - publications.qmd
 
 website:
   title: "Raúl Gutiérrez Meave"
@@ -13,28 +14,33 @@ website:
     left:
       - text: "Home"
         href: index.qmd 
+      - text: "Education"
+        href: education.qmd
       - text: "My research"
         href: research.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
     right: 
       - icon: envelope
         href: "mailto:rgutie34@uic.edu"
       - icon: github
         href: "https://github.com/raulgtzmeave"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/raulgtzmeave
       - icon: twitter
         href: https://twitter.com/raulgtzmeave
 
 format:
   html:
     theme: 
-     light: lux
-     dark: cyborg
+      light: lux
+      dark: cyborg
     toc: true
     toc-expand: 3
     fontsize: 1em
-    css: styles.css
-
+    css: custom.css
 
 editor: visual
 
