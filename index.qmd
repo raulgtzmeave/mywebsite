@@ -1,17 +1,17 @@
 ---
-title: ""
+title: "About"
 ---
 
 ## About me
 
-:::::: {#about-me .columns}
+::::: {#about-me .columns}
 :::: {.column width="40%"}
 ::: {style="padding-right: 20px;"}
 <img src="Images/Profile_photo.jpeg" alt="Profile photo" style="width: 100%;"/>
 :::
-::::
 
-::: {.column width="60%"}
-My name is Raul Gutierrez Meave. I am a Ph.D. Candidate in Public Administration at the Department of Public Policy, Management and Analytics at the University of Illinois Chicago (UIC). With a previous Ph.D. in Public Policy from the Center for Research and Teaching in Economics (CIDE), my research focuses broadly on local governance, collaboration networks, and policy diffusion.
-:::
-::::::
+I am a Ph.D. Candidate in Public Administration at the University of Illinois Chicago and hold a Ph.D. in Public Policy from CIDE. My research examines the ways local governments govern in fragmented systems, where authority is divided across multiple jurisdictions but problems are shared.
+
+I focus on interlocal collaboration agreements as institutional responses to political fragmentation and use a networks lens to study how governments decide to work together, how the institutional designs of these agreements diffuse across places, and what those choices mean for management, service delivery, and community outcomes.
+::::
+:::::
