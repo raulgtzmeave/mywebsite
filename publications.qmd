@@ -36,15 +36,11 @@ title: "Research"
 
 #### Other Publications
 
-3.  Gutiérrez-Meave, R. (2024). [“A book review of Tom Entwistle’s Public Management: A Research Overview.”](https://onlinelibrary.wiley.com/doi/10.1111/padm.13023) *Public Administration*.
+2.  Gutiérrez-Meave, R. (2024). [“A book review of Tom Entwistle’s Public Management: A Research Overview.”](https://onlinelibrary.wiley.com/doi/10.1111/padm.13023) *Public Administration*.
 
 <!-- -->
 
-2.  Gutiérrez-Meave, R. (2022). [“Framing and Decisions: The Punctuations of the Mexican Power Generation Policy Subsystem.”](https://www.ceeol.com/search/book-detail?id=1175564#page=276) *European Administrative Area: Integration and Resilience Dynamics, EU-PAIR 2022*.
-
-<!-- -->
-
-1.  Gutiérrez-Meave, R. (2020). [“Luchando por un espacio en la Ciudad de México: Comerciantes ambulantes y el espacio público urbano. *Fighting for Space in Mexico City. Street Traders and Urban Public Space*.”](https://www.scielo.org.mx/scielo.php?pid=S1405-10792020000100272&script=sci_arttext) *Gestión y Política Pública*.
+1.  Gutiérrez-Meave, R. (2022). [“Framing and Decisions: The Punctuations of the Mexican Power Generation Policy Subsystem.”](https://www.ceeol.com/search/book-detail?id=1175564#page=276) *European Administrative Area: Integration and Resilience Dynamics, EU-PAIR 2022*.
 
 #### Funded Research
 
@@ -52,38 +48,32 @@ title: "Research"
 
 #### Manuscripts Under Review
 
-4.  Siciliano, M., E-Zhera, M., Gutiérrez-Meave, R., Deslatte, A., Krause, R. (2024). “Local Governance and Green Ties: Assessing the Relationship Between Functional and Institutional Collective Action.” *Revise and Resubmit.*
+<!-- -->
+
+2.  Gutiérrez-Meave, R., Siciliano, M., Carr, J. “Stuck Together or Better Together? Rethinking Stability and Flexibility in Intergovernmental Collaboration Networks.” *Under review.*
 
 <!-- -->
 
-3.  Gutiérrez-Meave, R., Siciliano, M., Carr, J. “Stuck Together or Better Together? Rethinking Stability and Flexibility in Intergovernmental Collaboration Networks.” *Under review.*
+1.  Massa, R., Gutiérrez-Meave, R., Fondevila, G., Bonilla, G. “When Political Boundaries Become Liabilities: Metropolitan Fragmentation and Crime Convergence in the Mexico City Metropolitan Area.” *Under review.*
 
 <!-- -->
 
-2.  Sarmiento, L., Gutiérrez-Meave, R. “Racial Inequalities to Air Pollution Exposure in Mexico.” *Under review.*
+#### Manuscripts in Preparation
+
+5.  Gutiérrez-Meave, R., “Design by Proximity: The Spatial Diffusion of Interlocal Agreements"
 
 <!-- -->
 
-1.  Massa, R., Fondevila, G., Gutiérrez-Meave, R., Bonilla, G. “The Fragmentation of Inter-jurisdictional Policies and the Formation of Interstate Vehicle Theft Regions in Metropolitan Areas.” *Under review.*
+4.  Gutiérrez-Meave, R., “It's Not Just Whether, It's What: A Text-Based Analysis of Interlocal Agreement Diffusion"
 
 <!-- -->
 
-#### Manuscripts in Development
-
-5.  Gutiérrez-Meave, R., Krause, R., E-Zhera, M., Chung, J., Siciliano, M., Deslatte, A. “Who Gets It Right? Internal Capacity, External Collaboration, and Policy Coherence in Local EV Initiatives.”
+3.  Gutiérrez-Meave, R., “Networked Dynamics of Interlocal Agreement Diffusion: A Relational Event Approach"
 
 <!-- -->
 
-4.  Zhang, S., Gutiérrez-Meave, R., Li, J., Carr, J. “Selection-Based Accountability in Public Safety Contracts: Exploring the Roles of Collaboration History and Shared Constituencies in Generating Justified Trust.”
+2.  Gutiérrez-Meave, R., Krause, R., E-Zhera, M., Siciliano, M., Deslatte, A., “What Drives Extensive Local EV Policy Portfolios? The Role of Organizational Capacity and Regional Collaboration.”
 
 <!-- -->
 
-3.  Gutiérrez-Meave, R. “The Diffusion of Interlocal Collaboration Agreements for Service Delivery: A Quantitative Text Analysis of Patterns, Trends, and Mechanisms.”
-
-<!-- -->
-
-2.  Gutiérrez-Meave, R. “When Proximity Matters: Understanding the Diffusion of Local Service Agreements.”
-
-<!-- -->
-
-1.  Medina, A., Gutiérrez-Meave, R., Sánchez, J. “Local Ties, Regional Patterns: A Spatial Analysis of Intermunicipal Collaboration in Mexico.”
+1.  Zhang, S., Gutiérrez-Meave, R., Li, J.,  Carr, J. “Relational Embeddedness: Unpacking the Complexity of Ties in Interlocal Service Contracts.”

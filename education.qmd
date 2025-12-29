@@ -1,6 +1,5 @@
 ---
 title: "CV"
-format: html
 ---
 
 You can view my CV below or download it [here](cv/CV_Raul_Gutierrez_Meave.pdf).
