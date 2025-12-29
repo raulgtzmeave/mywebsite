@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://raulgtzmeave.github.io/mywebsite/about.html</loc>
-    <lastmod>2024-02-28T18:46:38.210Z</lastmod>
-  </url>
-  <url>
-    <loc>https://raulgtzmeave.github.io/mywebsite/publications.html</loc>
-    <lastmod>2025-05-02T15:32:56.733Z</lastmod>
-  </url>
-  <url>
-    <loc>https://raulgtzmeave.github.io/mywebsite/education.html</loc>
-    <lastmod>2025-04-25T05:01:08.638Z</lastmod>
-  </url>
-  <url>
-    <loc>https://raulgtzmeave.github.io/mywebsite/index.html</loc>
-    <lastmod>2025-04-25T04:57:13.643Z</lastmod>
+    <loc>https://raulgtzmeave.github.io/mywebsite/teaching.html</loc>
+    <lastmod>2025-04-25T05:27:49.348Z</lastmod>
   </url>
   <url>
     <loc>https://raulgtzmeave.github.io/mywebsite/research.html</loc>
     <lastmod>2025-04-25T04:32:09.115Z</lastmod>
   </url>
   <url>
-    <loc>https://raulgtzmeave.github.io/mywebsite/teaching.html</loc>
-    <lastmod>2025-04-25T05:27:49.348Z</lastmod>
+    <loc>https://raulgtzmeave.github.io/mywebsite/about.html</loc>
+    <lastmod>2024-02-28T18:46:38.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raulgtzmeave.github.io/mywebsite/index.html</loc>
+    <lastmod>2025-04-25T04:57:13.643Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raulgtzmeave.github.io/mywebsite/education.html</loc>
+    <lastmod>2025-04-25T05:01:08.638Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raulgtzmeave.github.io/mywebsite/publications.html</loc>
+    <lastmod>2025-05-02T15:32:56.733Z</lastmod>
   </url>
 </urlset>
