@@ -1,8 +1,12 @@
 ---
-title: "Publications"
+title: "Research"
 ---
 
 #### Refereed Journal Articles
+
+6.  Siciliano, M., E-Zhera, M., Gutiérrez-Meave, R., Deslatte, A., Krause, R. (2026). "Local Governance and Green Ties: Assessing the Relationship Between Functional and Institutional Collective Action." *State and Local Government Review (forthcoming)*.
+
+<!-- -->
 
 5.  Gutiérrez-Meave, R., Zhang, S., Carr, J., Siciliano, M. (2025). [“Integrating Formal and Relational Contracting: The Link Between Network Structure and Contract Design in Interlocal Collaboration Agreements.”](https://onlinelibrary.wiley.com/doi/10.1111/padm.13050) *Public Administration*.
 
