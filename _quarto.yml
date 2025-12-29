@@ -13,13 +13,11 @@ website:
   title: "Raúl Gutiérrez Meave"
   navbar:
     left:
-      - text: "Home"
+      - text: "About"
         href: index.qmd 
-      - text: "Education"
+      - text: "CV"
         href: education.qmd
-      - text: "My research"
-        href: research.qmd
-      - text: "Publications"
+      - text: "Research"
         href: publications.qmd
       - text: "Teaching"
         href: teaching.qmd
