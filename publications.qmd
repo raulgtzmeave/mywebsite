@@ -50,32 +50,48 @@ title: "Research"
 
 <!-- -->
 
-3.  Gutiérrez-Meave, R., Siciliano, M., Carr, J. “Stuck Together or Better Together? Rethinking Stability and Flexibility in Intergovernmental Collaboration Networks.” *Under review.*
+5.  Gutierrez-Meave, R., Siciliano, M., Carr, J., ”Stuck Together or Better Together? Rethinking Stability and Flexibility in Intergovernmental Collaboration Networks.” Invited to Revise and Resubmit.
 
 <!-- -->
 
-2.  Massa, R., Gutiérrez-Meave, R., Fondevila, G., Bonilla, G. “When Political Boundaries Become Liabilities: Metropolitan Fragmentation and Crime Convergence in the Mexico City Metropolitan Area.” *Under review.*
+4.  Massa, R., Gutierrez-Meave, R., Fondevila, G., Bonilla, G. “When Political Boundaries Become Liabilities: Metropolitan Fragmentation and Crime Convergence in the Mexico City Metropolitan Area.” *Under review.*
 
 <!-- -->
 
-1.  Sarmiento, A. & Gutiérrez-Meave, R. “Racial Inequalities to Regional Air Pollution Exposure in Mexico.” *Under review.*
-
-#### Manuscripts in Preparation
-
-5.  Gutiérrez-Meave, R., “Design by Proximity: The Spatial Diffusion of Interlocal Agreements"
+3.  Gutierrez-Meave, R., ”Why Reinvent the Wheel? Institutional Design Replication in Interlocal Collaboration.”
 
 <!-- -->
 
-4.  Gutiérrez-Meave, R., “It's Not Just Whether, It's What: A Text-Based Analysis of Interlocal Agreement Diffusion"
+2.  Zhang, S., Gutierrez-Meave, R., Li, J., Carr, J. ”Selection-Based Accountability, Tie Strength, and Contract Design in Interlocal Service Agreements.” 
 
 <!-- -->
 
-3.  Gutiérrez-Meave, R., “Networked Dynamics of Interlocal Agreement Diffusion: A Relational Event Approach"
+1. Gutierrez-Meave, R., Krause, R., M., Siciliano, M., Deslatte, A., E-Zhera, M., ”Beyond Single Instruments: Organizational Capabilities and Regional Collaboration in Local EV Policy Portfolios.”
+
+#### Works in Progress
+
+5.  Gutierrez-Meave, R., "Who Do You Learn From? Relational Experience and Network
+Exposure in the Replication of Interlocal Agreement Designs.”
 
 <!-- -->
 
-2.  Gutiérrez-Meave, R., Krause, R., E-Zhera, M., Siciliano, M., Deslatte, A., “What Drives Extensive Local EV Policy Portfolios? The Role of Organizational Capacity and Regional Collaboration.”
+4.  Gutierrez-Meave, R., "Borrowing from Neighbors? Spatial Patterns in the Replication of
+Interlocal Collaboration Agreements.”
 
 <!-- -->
 
-1.  Zhang, S., Gutiérrez-Meave, R., Li, J.,  Carr, J. “Relational Embeddedness: Unpacking the Complexity of Ties in Interlocal Service Contracts.”
+3.  Ghasemizade, M., Gutierrez-Meave, R., Gramling, C., Chawla, A., Albrecht, K., &
+Lovato, J. "Making Local Government Contracts Legible: A Computational Pipeline for
+Classifying and Mapping Intergovernmental Service Agreements.”
+
+<!-- -->
+
+2.  Sanchez, J., Gutierrez-Meave, R., Gaytan-Neri, E., ”Local governments and shared
+services: Insights on institutional mechanisms, partners, and purpose.”
+
+<!-- -->
+
+1.  Gutierrez-Meave, R., Carr, J. Siciliano, M. "Beyond Relational Inertia: Exploration and Exploitation in Intergovernmental Contract Networks.”
+
+
+

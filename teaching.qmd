@@ -2,34 +2,25 @@
 title: "Teaching"
 ---
 
-### Undergraduate Courses
+### Rutgers University-Newark
 
-#### Instructor of Record
+- Data Analysis for Decision-Making (MPA) – Fall 2026.
+- Evidence-based policy (BA) – Fall 2026.
 
--   Programming and Data Analysis for Public Policy II - UIC (Spring 2025)\
--   Urban Policy and Metropolitan Governance - UIC (Fall 2023, Fall 2024)\
--   Introduction to Policy Analysis and Advocacy - UIC (Summer 2024, Summer 2025)\
--   Introduction to Policy Analysis - CIDE (Spring 2022)\
--   Regression Analysis - IBERO (2019-2021)\
--   Social and Economic Analysis of Mexico - IBERO (Spring 2018)\
--   Introduction to Public Policy - IBERO (Fall 2017)
+### University of Illinois Chicago (UIC)
 
-#### Teaching Assistant
+- Local Government Management (MPA) – Fall 2025.
+- Programming and Data Analysis for Public Policy II (BA) – Spring 2025.
+- Urban Policy and Metropolitan Governance (BA) – Fall 2023, Fall 2024.
+- Introduction to Policy Analysis and Advocacy (BA) – Summer 2024, Summer 2025.
 
--   Policy Analysis - UIC (Spring 2024)\
--   Evaluating Public Policies and Programs - UIC (Fall 2022, Spring 2024)\
--   Nonprofit Organizations and Civil Society - UIC (Spring 2023)\
--   Introduction to the Policy Process - UIC (Fall 2022)
+### Centro de Investigación y Docencia Económicas (CIDE)
 
-------------------------------------------------------------------------
+- Contemporary Topics in Public Policy (MPA, online) – Fall 2022.
+- Introduction to Policy Analysis (BA) – Spring 2022.
 
-### Graduate Courses
+### Universidad Iberoamericana
 
-#### Instructor of Record
-
-- Local Government Management - UIC (Fall 2025)
-- Contemporary Topics of Public Policy - CIDE (Fall 2022)
-
-#### Teaching Assistant
-
--   Regulation Policy and Theory - CIDE (Spring 2022)
+- Regression Analysis (BA) – Spring 2020, Fall 2020, Spring 2021, Fall 2021.
+- Social and Economic Analysis of Mexico (BA) – Spring 2018.
+- Introduction to Public Policy (BA) – Fall 2017.
