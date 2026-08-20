@@ -10,8 +10,8 @@ title: "About"
 ::::
 
 ::: {.column width="60%"}
-I am a Ph.D. Candidate in Public Administration at the University of Illinois Chicago and hold a Ph.D. in Public Policy from CIDE. My research examines the ways local governments govern in metropolitan systems, where authority is divided across multiple jurisdictions but problems are shared.
+I am an Assistant Professor in the School of Public Affairs and Administration (SPAA) at Rutgers University–Newark. I hold a Ph.D. in Public Administration from the University of Illinois Chicago (UIC) and a Ph.D. in Public Policy from CIDE.
 
-I study intergovernmental collaboration as an institutional response to political fragmentation, using a networks lens to examine how governments collaborate under these conditions, how collaboration becomes institutionalized, and what these choices mean for management, service delivery, and regional outcomes.
+My research examines local governance and urban policy, with a particular focus on how governments and other actors address shared problems across organizational and jurisdictional boundaries. I study intergovernmental collaboration as a way governments organize collective action, with particular attention to how institutional arrangements and networks shape collaboration, service delivery, and policy outcomes. My work also examines broader questions of urban policy and local government management, using quantitative, spatial, and network methods.
 :::
 ::::::
