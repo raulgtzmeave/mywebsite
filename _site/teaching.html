@@ -145,8 +145,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#undergraduate-courses" id="toc-undergraduate-courses" class="nav-link active" data-scroll-target="#undergraduate-courses">Undergraduate Courses</a></li>
-  <li><a href="#graduate-courses" id="toc-graduate-courses" class="nav-link" data-scroll-target="#graduate-courses">Graduate Courses</a></li>
+  <li><a href="#rutgers-university-newark" id="toc-rutgers-university-newark" class="nav-link active" data-scroll-target="#rutgers-university-newark">Rutgers University-Newark</a></li>
+  <li><a href="#university-of-illinois-chicago-uic" id="toc-university-of-illinois-chicago-uic" class="nav-link" data-scroll-target="#university-of-illinois-chicago-uic">University of Illinois Chicago (UIC)</a></li>
+  <li><a href="#centro-de-investigación-y-docencia-económicas-cide" id="toc-centro-de-investigación-y-docencia-económicas-cide" class="nav-link" data-scroll-target="#centro-de-investigación-y-docencia-económicas-cide">Centro de Investigación y Docencia Económicas (CIDE)</a></li>
+  <li><a href="#universidad-iberoamericana" id="toc-universidad-iberoamericana" class="nav-link" data-scroll-target="#universidad-iberoamericana">Universidad Iberoamericana</a></li>
   </ul>
 </nav>
     </div>
@@ -172,57 +174,38 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="undergraduate-courses" class="level3">
-<h3 class="anchored" data-anchor-id="undergraduate-courses">Undergraduate Courses</h3>
-<section id="instructor-of-record" class="level4">
-<h4 class="anchored" data-anchor-id="instructor-of-record">Instructor of Record</h4>
+<section id="rutgers-university-newark" class="level3">
+<h3 class="anchored" data-anchor-id="rutgers-university-newark">Rutgers University-Newark</h3>
 <ul>
-<li>Programming and Data Analysis for Public Policy II - UIC (Spring 2025)<br>
-</li>
-<li>Urban Policy and Metropolitan Governance - UIC (Fall 2023, Fall 2024)<br>
-</li>
-<li>Introduction to Policy Analysis and Advocacy - UIC (Summer 2024, Summer 2025)<br>
-</li>
-<li>Introduction to Policy Analysis - CIDE (Spring 2022)<br>
-</li>
-<li>Regression Analysis - IBERO (2019-2021)<br>
-</li>
-<li>Social and Economic Analysis of Mexico - IBERO (Spring 2018)<br>
-</li>
-<li>Introduction to Public Policy - IBERO (Fall 2017)</li>
+<li>Data Analysis for Decision-Making (MPA) – Fall 2026.</li>
+<li>Evidence-based policy (BA) – Fall 2026.</li>
 </ul>
 </section>
-<section id="teaching-assistant" class="level4">
-<h4 class="anchored" data-anchor-id="teaching-assistant">Teaching Assistant</h4>
+<section id="university-of-illinois-chicago-uic" class="level3">
+<h3 class="anchored" data-anchor-id="university-of-illinois-chicago-uic">University of Illinois Chicago (UIC)</h3>
 <ul>
-<li>Policy Analysis - UIC (Spring 2024)<br>
-</li>
-<li>Evaluating Public Policies and Programs - UIC (Fall 2022, Spring 2024)<br>
-</li>
-<li>Nonprofit Organizations and Civil Society - UIC (Spring 2023)<br>
-</li>
-<li>Introduction to the Policy Process - UIC (Fall 2022)</li>
-</ul>
-<hr>
-</section>
-</section>
-<section id="graduate-courses" class="level3">
-<h3 class="anchored" data-anchor-id="graduate-courses">Graduate Courses</h3>
-<section id="instructor-of-record-1" class="level4">
-<h4 class="anchored" data-anchor-id="instructor-of-record-1">Instructor of Record</h4>
-<ul>
-<li>Local Government Management - UIC (Fall 2025)</li>
-<li>Contemporary Topics of Public Policy - CIDE (Fall 2022)</li>
+<li>Local Government Management (MPA) – Fall 2025.</li>
+<li>Programming and Data Analysis for Public Policy II (BA) – Spring 2025.</li>
+<li>Urban Policy and Metropolitan Governance (BA) – Fall 2023, Fall 2024.</li>
+<li>Introduction to Policy Analysis and Advocacy (BA) – Summer 2024, Summer 2025.</li>
 </ul>
 </section>
-<section id="teaching-assistant-1" class="level4">
-<h4 class="anchored" data-anchor-id="teaching-assistant-1">Teaching Assistant</h4>
+<section id="centro-de-investigación-y-docencia-económicas-cide" class="level3">
+<h3 class="anchored" data-anchor-id="centro-de-investigación-y-docencia-económicas-cide">Centro de Investigación y Docencia Económicas (CIDE)</h3>
 <ul>
-<li>Regulation Policy and Theory - CIDE (Spring 2022)</li>
+<li>Contemporary Topics in Public Policy (MPA, online) – Fall 2022.</li>
+<li>Introduction to Policy Analysis (BA) – Spring 2022.</li>
+</ul>
+</section>
+<section id="universidad-iberoamericana" class="level3">
+<h3 class="anchored" data-anchor-id="universidad-iberoamericana">Universidad Iberoamericana</h3>
+<ul>
+<li>Regression Analysis (BA) – Spring 2020, Fall 2020, Spring 2021, Fall 2021.</li>
+<li>Social and Economic Analysis of Mexico (BA) – Spring 2018.</li>
+<li>Introduction to Public Policy (BA) – Fall 2017.</li>
 </ul>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -460,7 +443,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/raulgtzmeave\.github\.io\/mywebsite\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
