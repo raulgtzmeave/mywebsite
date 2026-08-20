@@ -2,24 +2,24 @@
 title: "Teaching"
 ---
 
-### Rutgers University-Newark
+#### Rutgers University-Newark
 
 - Data Analysis for Decision-Making (MPA) – Fall 2026.
 - Evidence-based policy (BA) – Fall 2026.
 
-### University of Illinois Chicago (UIC)
+#### University of Illinois Chicago (UIC)
 
 - Local Government Management (MPA) – Fall 2025.
 - Programming and Data Analysis for Public Policy II (BA) – Spring 2025.
 - Urban Policy and Metropolitan Governance (BA) – Fall 2023, Fall 2024.
 - Introduction to Policy Analysis and Advocacy (BA) – Summer 2024, Summer 2025.
 
-### Centro de Investigación y Docencia Económicas (CIDE)
+#### Centro de Investigación y Docencia Económicas (CIDE)
 
 - Contemporary Topics in Public Policy (MPA, online) – Fall 2022.
 - Introduction to Policy Analysis (BA) – Spring 2022.
 
-### Universidad Iberoamericana
+#### Universidad Iberoamericana
 
 - Regression Analysis (BA) – Spring 2020, Fall 2020, Spring 2021, Fall 2021.
 - Social and Economic Analysis of Mexico (BA) – Spring 2018.
